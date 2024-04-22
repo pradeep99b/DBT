@@ -1,0 +1,3 @@
+insert into EMP
+values('1', 'AMIT', 5000, 'MUMBAI', '1995-01-10');
+	

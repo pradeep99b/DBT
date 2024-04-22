@@ -1,0 +1,8 @@
+ create table EMP
+ (
+             EmpNo char(4),
+             Ename varchar(25),
+             Sal float,
+             City varchar(15),
+             DOB date
+  );
